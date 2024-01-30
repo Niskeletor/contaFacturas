@@ -1,0 +1,67 @@
+{
+    "base_webdav_path": "/remote.php/dav/files/nombreUsuarioWebdav",
+    "servicio_nombre": "Recurso Compartido",
+    "ruta_compartida_mg": [
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+        
+    ],
+    "destino_m_mg": [
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+    ],
+    "destino_s_mg": [
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+    ],
+    "ruta_compartida_tb": [
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+    ],
+    "destino_m_tb": [
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+    ],
+    "destino_s_tb": [
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+    ],
+    "ruta_compartida_my": [
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+    ],
+    "destino_m_my": [
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+    ],
+    "destino_s_my": [
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+    ],
+    "destino_o_my": [
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+    ],
+    "ruta_compartida_mu": [
+        
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+    ],
+    "destino_m_mu": [
+        
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+        
+    ],
+    "destino_s_mu": [
+        
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+        
+    ],
+    "destino_o_mu": [
+        
+        "carpeta1/subcarpeta1",
+        "carpeta1/subcarpeta2"
+    ]
+}
