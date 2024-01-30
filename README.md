@@ -1,6 +1,6 @@
 # Proyectos
 
-# ContaFacturas
+<em> # contaFacturas </em>
 
 Es un script en Python diseñado para facilitar la sincronización y gestión de archivos entre servidores SMB (Server Message Block) y WebDAV (Web Distributed Authoring and Versioning). Especialmente útil para empresas que requieren automatizar la transferencia y el procesamiento de archivos PDF entre diferentes plataformas de almacenamiento.
 
