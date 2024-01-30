@@ -1,28 +1,29 @@
-# contaFacturas
+# 📃 contaFacturas 
+![Static Badge](https://img.shields.io/badge/conta-Facturas-blue)
+
 
 Es un script en Python diseñado para facilitar la sincronización y gestión de archivos entre servidores SMB (Server Message Block) y WebDAV (Web Distributed Authoring and Versioning). Especialmente útil para empresas que requieren automatizar la transferencia y el procesamiento de archivos PDF entre diferentes plataformas de almacenamiento.
 
-## Características
+## 🤹‍♂️ Características
 
 - Conexión automática a servidores SMB y WebDAV.
 - Transferencia y renombramiento de archivos PDF basados en condiciones específicas.
 - Filtrado y manejo de archivos recursivamente en directorios de SMB.
 - Registro detallado de operaciones para facilitar el seguimiento y la depuración.
 
-## Requisitos
+## 🖥️ Requisitos
 
-Lista de requisitos previos necesarios para ejecutar tu proyecto. Por ejemplo:
+Lista de requisitos previos necesarios :
 
-- Python 3.x
+- Python 3.8 🐍 
 - Bibliotecas: `smb.SMBConnection`, `webdav3.client`
 
-## Instalación
+## 📀 Instalación
 
 Instrucciones paso a paso para instalar y configurar tu proyecto. Por ejemplo:
 
 ```bash
-git clone <url-de-tu-repositorio>
-cd <nombre-de-tu-proyecto>
+git clone git@github.com:Niskeletor/contaFacturas.git
 pip install -r requirements.txt
 
 ```
@@ -58,6 +59,9 @@ WEBDAV_LOGIN=usuarioWebdav
 WEBDAV_PASSWORD=passworduserWebdav
 ```
 
+>[!Caution]
+>No uses la configuracion y credenciales desde un JSON en producción. Es un alto riesgo de seguridad
+
 ## Uso
 
 Para ejecutar el script, usa el siguiente comando:
@@ -69,7 +73,14 @@ python app.py
 ## Contribuir
 
 Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor, haz un fork del repositorio y crea un pull request con tus cambios.
-
+```bash
+ ______  _                     _       
+|  ___ \(_)                   | |      
+| |   | |_  ___  ____ ___   _ | | ____ 
+| |   | | |/___)/ ___) _ \ / || |/ _  )
+| |   | | |___ ( (__| |_| ( (_| ( (/ / 
+|_|   |_|_(___/ \____)___/ \____|\____)
+```
 ## Licencia
 
 ![Licencia MIT](https://img.shields.io/badge/license-MIT-green)
