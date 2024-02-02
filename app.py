@@ -113,7 +113,7 @@ try:
         procesar_archivos_recursivamente(conn, servicio_nombre, ruta, dest_m, '-M', webdav_client)
         procesar_archivos_recursivamente(conn, servicio_nombre, ruta, dest_s, '-S', webdav_client)
         
-    # RUTAS METALYESO
+    # RUTAS Empresa3
     ruta_compartida = data['ruta_compartida_my']
     destino_m = data['destino_m_my']    
     destino_s = data['destino_s_my']
