@@ -62,6 +62,22 @@ WEBDAV_PASSWORD=passworduserWebdav
 >[!Caution]
 >No uses la configuracion y credenciales desde un JSON en producción. Es un alto riesgo de seguridad
 
+## 🏯 Estructura
+
+```bash
+contaFacturas/
+├─ README.md
+│
+├─ smbwebdav.py
+├─ conf.env
+├─ app.py
+├─ requirements.txt
+│ 
+└── configuracion.json
+
+```
+
+
 ## Uso
 
 Para ejecutar el script, usa el siguiente comando:
